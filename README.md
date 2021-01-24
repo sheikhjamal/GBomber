@@ -13,5 +13,5 @@ We recommend not to use your personal email as a target.
 ```cd GBomber```
 - Run the python file.
 ```python gbomber.py```
-## Disclamer
-[!] Only use this for educational purposes I am not responsible for anything you do with this tool, it was made and should be for educational purposes. [!]
+## [!] Disclamer [!]
+ Only use this for educational purposes I am not responsible for anything you do with this tool, it was made and should be for educational purposes.
