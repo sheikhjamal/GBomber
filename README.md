@@ -9,10 +9,17 @@ I recommend not to use your personal email as a target.
 ```pip install python```
 - Clone the git repository.
  ```git clone https://github.com/sheikhjamal/GBomber```
- - Navigate to the GBomber directory..
+ - Navigate to the GBomber directory.
 ```cd GBomber```
 - Run the python file.
 ```python gbomber.py```
+## Windows install
+Open up command prompt and clone the git repository.
+ ```git clone https://github.com/sheikhjamal/GBomber```
+ Navigate to the GBomber directory.
+ ```cd GBomber```
+ Run the python file.
+ ```python gbomber.py```
 ## [!] Disclamer [!]
  Only use this for educational purposes I am not responsible for anything you do with this tool, it was made and should be for educational purposes.
 ## Screenshot
