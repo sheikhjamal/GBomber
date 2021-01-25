@@ -4,7 +4,7 @@ GBomber, Gmail Bombing Tool.
 These instructions will help you download the tool.
 Make sure your gmail has less secure apps on (https://myaccount.google.com/lesssecureapps)
 I recommend not to use your personal email as a target.
-## Linux Install
+## Linux Installation
 - First of all you need to download python.
 ```pip install python```
 - Clone the git repository.
@@ -13,7 +13,7 @@ I recommend not to use your personal email as a target.
 ```cd GBomber```
 - Run the python file.
 ```python gbomber.py```
-## Windows install
+## Windows Installation
 - Open up command prompt and clone the git repository.
  ```git clone https://github.com/sheikhjamal/GBomber```
  - Navigate to the GBomber directory.
