@@ -6,6 +6,7 @@ import os
 import getpass
 import sys
 
+os.system('clear')
 class bcolors:
     HEADER = '\033[95m'
     OKBLUE = '\033[94m'
